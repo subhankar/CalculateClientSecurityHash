@@ -1,6 +1,6 @@
 {
   "name": "CalculateClientSecurityHash",
-  "description": "Calculate Client Security Hash",
+  "description": "Calculate Client Security Hash - by Subhankar Das",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
